@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Set your city here
-CITY="77 elford crescent, Hamilton, Ontario, Canada"
+CITY="###"
 
 # User agent to avoid Nominatim ban
 UA="Mozilla/5.0"
